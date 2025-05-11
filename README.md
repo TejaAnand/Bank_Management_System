@@ -93,11 +93,12 @@ make
 
 ```txt
 ==================================== BANK MANAGEMENT SYSTEM ====================================
-c: Create account	  h: Transaction history	w: Withdraw
-d: Deposit		      b: Balance enquiry	    t: Transfer
-e: Display accounts	s: Save to file		      f: Find account
-x: Delete Account	  q: Quit
+c: Create account	h: Transaction history	w: Withdraw
+d: Deposit		b: Balance enquiry	t: Transfer
+e: Display accounts	s: Save to file		f: Find account
+x: Delete Account	q: Quit
 Enter choice: 
+
 ```
 
 ---
