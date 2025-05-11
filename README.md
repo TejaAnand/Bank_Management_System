@@ -115,7 +115,7 @@ Enter choice:
 ## 👨‍💻 Author
 
 - 🎓 Developed by: *P.Teja Anand*
-- 🏫 Mini Project Submission
+- 🏫 Mini Project
 - 🎯 Tech: C language, File Handling, Linked Lists, Pointers
 
 ---
