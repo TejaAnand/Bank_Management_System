@@ -119,7 +119,3 @@ Enter choice:
 - 🎯 Tech: C language, File Handling, Linked Lists, Pointers
 
 ---
-
-## 📷 Screenshots (Optional)
-
-> You can add terminal screenshots or a demo video here!
